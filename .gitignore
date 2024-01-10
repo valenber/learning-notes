@@ -1,0 +1,13 @@
+# Obsidian Workspace Files
+workspace/*.json
+
+# Workspace
+.obsidian/workspace.json
+
+# Obsidian Cache Files
+obsidian-cache/*
+
+# Temporary Files
+*.tmp
+*.swp
+*.swo
